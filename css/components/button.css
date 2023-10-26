@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=IBM+Plex+Sans:wght@300;700&family=Kanit:ital,wght@1,900&family=Lobster&family=Lora&family=Pacifico&family=Pixelify+Sans&family=Playfair+Display&family=Raleway:wght@900&family=Roboto:wght@300&family=Rubik:ital,wght@1,700&family=Satisfy&display=swap');	
+	
+.btn-blue{	
+	background-color:#989BFD;
+	border-radius: 3px;
+	color:#000000;
+	font-family: 'Lobster', cursive;
+	font-weight:bold;
+	padding:15px 15px;
+	width:130px;
+	text-align:center;
+	transition:0.2s;
+	margin-top:50px;
+	margin-bottom:150px;
+	font-size:120%;
+	display:flex;
+	justify-content: center;
+  	align-items: center;
+  	transform:translateY(-65px);
+}	
+	
+.btn-blue:hover{	
+	background-color:#6D71FB;
+	transition:0.2s;
+}	

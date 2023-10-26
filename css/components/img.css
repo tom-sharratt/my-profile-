@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=IBM+Plex+Sans:wght@300;700&family=Kanit:ital,wght@1,900&family=Lobster&family=Lora&family=Pacifico&family=Pixelify+Sans&family=Playfair+Display&family=Raleway:wght@900&family=Roboto:wght@300&family=Rubik:ital,wght@1,700&family=Satisfy&display=swap');	
+	
+.img{	
+	
+	zoom:30%;
+	display:flex;
+	justify-content: center;
+  	align-items: center;
+  	margin: auto;
+ 	padding: 10px;
+ 	border-radius:10%;
+}	
